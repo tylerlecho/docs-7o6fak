@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-ytquwm.hartawin.space/sitemap.xml
